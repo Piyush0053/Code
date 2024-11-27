@@ -4,7 +4,10 @@
         "vector": "cpp",
         "array": "cpp",
         "string": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
